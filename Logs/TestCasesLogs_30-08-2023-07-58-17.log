@@ -1,0 +1,4 @@
+30-Aug-2023 19:58:17:652 INFO  [Log] Method Name: Tests.Login Log Message :launch the browser and enter URL 
+30-Aug-2023 19:58:24:244 INFO  [Log] Method Name: Tests.Login Log Message : enter username into Username filed 
+30-Aug-2023 19:58:24:247 INFO  [Log] Method Name: Tests.Login Log Message : enter password into password field 
+30-Aug-2023 19:58:24:247 INFO  [Log] Method Name: Tests.Login Log Message : click on sign in button 
